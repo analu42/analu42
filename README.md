@@ -14,11 +14,6 @@
 
 > "A imaginação nos levará a mundos que nunca existiram. Mas sem ela, não iremos a lugar nenhum." - Carl Sagan
 
-
-### 🛠️ Projetos em destaque
-
-- 🧠 Teste de Turing com IA  
-  Um chat interativo usando Django + API do Google Gemini.
 <!--
 **analu42/analu42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
