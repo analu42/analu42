@@ -1,4 +1,4 @@
-## Olá! 👋
+## Olá! :D
 - 🎓 Estudante de Informática no [IFRN](https://portal.ifrn.edu.br/cursos/tecnicos/tecnico-integrado/informatica/)
 - 🧪 Desenvolvo projetos de Robótica, Autoria Web e Inteligência Artificial
 - 🐧 Entusiasta de Linux e Cibersegurança
