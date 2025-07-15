@@ -14,6 +14,8 @@
 
 > "A imaginação nos levará a mundos que nunca existiram. Mas sem ela, não iremos a lugar nenhum." - Carl Sagan
 
+![Snake animation](https://github.com/analu42/analu42/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **analu42/analu42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
