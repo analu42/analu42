@@ -2,7 +2,7 @@
 - 🎓 Informatics technician and Physics student at [IFRN](https://portal.ifrn.edu.br/cursos/tecnicos/tecnico-integrado/informatica/)
 - 🧪 I sometimes play with robotics, artificial intelligence and web development
 - 🐧 At the moment learn Cybersec w/ Google
-### 🚀 Tecnologias que uso
+### 🚀 Tools I use
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
