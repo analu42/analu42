@@ -1,7 +1,7 @@
-## Hey! :D
-- 🎓 Técnica em Informática pelo [IFRN](https://portal.ifrn.edu.br/cursos/tecnicos/tecnico-integrado/informatica/)
-- 🧪 Desenvolvo projetos de Robótica, Desenvolvimento Web e Inteligência Artificial
-- 🐧 Atualmente aprendendo Cibersegurança 
+## Hey, there! :D
+- 🎓 Informatics technician and Physics student at [IFRN](https://portal.ifrn.edu.br/cursos/tecnicos/tecnico-integrado/informatica/)
+- 🧪 I sometimes play with robotics, artificial intelligence and web development
+- 🐧 At the moment learn Cybersec w/ Google
 ### 🚀 Tecnologias que uso
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -11,7 +11,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 
-> "A imaginação nos levará a mundos que nunca existiram. Mas sem ela, não iremos a lugar nenhum." - Carl Sagan
+> "Imagination will often carry us to worlds that never were. But without it we go nowhere." - Carl Sagan
 
 
 <!--
