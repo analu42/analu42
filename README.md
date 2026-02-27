@@ -1,8 +1,7 @@
-## Olá! :D
-- 🎓 Estudante de Informática no [IFRN](https://portal.ifrn.edu.br/cursos/tecnicos/tecnico-integrado/informatica/)
-- 🧪 Desenvolvo projetos de Robótica, Autoria Web e Inteligência Artificial
-- 🐧 Entusiasta de Linux e Cibersegurança
-- 🌱 Atualmente aprendendo Desenvolvimento Web com Django
+## Hey! :D
+- 🎓 Técnica em Informática pelo [IFRN](https://portal.ifrn.edu.br/cursos/tecnicos/tecnico-integrado/informatica/)
+- 🧪 Desenvolvo projetos de Robótica, Desenvolvimento Web e Inteligência Artificial
+- 🐧 Atualmente aprendendo Cibersegurança 
 ### 🚀 Tecnologias que uso
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
