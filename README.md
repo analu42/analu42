@@ -1,7 +1,7 @@
 ## Hey, there! :D
-- 🎓 Informatics technician and Physics student at [IFRN](https://portal.ifrn.edu.br/)
+- 🎓 Informatics technician and physics student at [IFRN](https://portal.ifrn.edu.br/)
 - 🧪 I sometimes play with robotics, artificial intelligence and web development
-- 🐧 At the moment learning Cybersec w/ Google
+- 🐧 At the moment learning cybersec w/ Google
 ### 🚀 Tools I use
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
