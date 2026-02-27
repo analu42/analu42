@@ -1,5 +1,5 @@
 ## Hey, there! :D
-- 🎓 Informatics technician and Physics student at [IFRN](https://portal.ifrn.edu.br/cursos/tecnicos/tecnico-integrado/informatica/)
+- 🎓 Informatics technician and Physics student at [IFRN]([https://portal.ifrn.edu.br/cursos/tecnicos/tecnico-integrado/informatica/](https://portal.ifrn.edu.br/))
 - 🧪 I sometimes play with robotics, artificial intelligence and web development
 - 🐧 At the moment learn Cybersec w/ Google
 ### 🚀 Tools I use
